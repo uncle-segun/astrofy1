@@ -1,8 +1,8 @@
 // Place any global data in this file.
-// You can import this data from anywhere on your site using the `import` keyword.
+// You can import this data from anywhere in your site by using the `import` keyword.
 
-export const SITE_TITLE = 'Segun Adebanjo|D igital Marketing Specialist';
-export const SITE_DESCRIPTION = 'Segun Adebanjo a Digital Marketing Specialist with over a Decade of Experience, with lots of experience helping small business scale using digital Marketing
-';
+export const SITE_TITLE = 'Segun Adebanjo | Welcome To My World';
+export const SITE_DESCRIPTION = 'With over a decade of experience in digital marketing, I specialize in driving results through SEO, Google Ads, Local Services Ads, and a range..
+.';
 export const GENERATE_SLUG_FROM_TITLE = true
 export const TRANSITION_API = true
